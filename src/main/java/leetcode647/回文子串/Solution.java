@@ -50,7 +50,7 @@ public class Solution {
     public int countSubstrings(String s) {
 
         //   参考 https://leetcode-cn.com/problems/palindromic-substrings/solution/hui-wen-zi-chuan-by-leetcode-solution/
-        return 0;
+        return 1;
     }
 
     /**
