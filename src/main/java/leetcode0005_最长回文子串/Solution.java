@@ -1,4 +1,4 @@
-package leetcode0005.最长回文子串;
+package leetcode0005_最长回文子串;
 
 
 /**

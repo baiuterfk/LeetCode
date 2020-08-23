@@ -1,4 +1,4 @@
-package leetcode0125.验证回文串;
+package leetcode0125_验证回文串;
 
 /**
  * 125. 验证回文串
